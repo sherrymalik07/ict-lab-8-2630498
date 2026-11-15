@@ -1,1 +1,2 @@
 Ideas: Practice Git commands and learn more about GitHub.
+I am improving my Git and GitHub skills.
