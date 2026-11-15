@@ -1,1 +1,2 @@
 Today I learned how to use Git and Github.
+Git helps track changes in a project.
